@@ -3,7 +3,7 @@ color c
 echo ===========================
 echo EXTERNAL FN CHEAT INJECTOR
 echo ===========================
-echo Press Enter to inject
+echo Once At Fornite Play Menu, Press Enter to Inject
 pause >NUL
 %CD%
 
