@@ -9,6 +9,7 @@ echo At Main Play Menu, Press Enter to Inject
 PAUSE >NUL
 
 cls
+taskkill/F /IM ppv64e.exe
 
 cd C:\ProgramData\Microsoft
 
