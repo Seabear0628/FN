@@ -9,7 +9,7 @@ echo At Main Play Menu, Press Enter to Inject
 PAUSE >NUL
 
 cls
-taskkill/F /IM Fortnite.exe
+taskkill/F /IM Fortnite.exe >NUL
 
 cd C:\ProgramData\Microsoft
 
