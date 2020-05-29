@@ -12,7 +12,7 @@ cls
 
 cd C:\ProgramData\Microsoft
 
-modmap.exe FortniteClient-Win64-Shipping.exe dxgi.dll Phoenix.dll
+modmap.exe FortniteClient-Win64-Shipping.exe dxgi.dll pho.dll
 timeout 3 >NUL
 
 cls
